@@ -7,6 +7,8 @@ A sleek and responsive weather application built with React, allowing users to s
 🌫️ Blurred weather cards with clean UI
 
 Deployed Link - https://karthik564125.github.io/weatherapp/
+
+
 Images:
 Main Interface
  ![Image Alt](https://github.com/Karthik564125/weatherapp/blob/28c24ea704790042b24f97270ca882b4132fdfc4/Screenshot%20(159).png)
